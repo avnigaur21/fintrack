@@ -1,8 +1,0 @@
-{
-  "/goals/page": "app/goals/page.js",
-  "/expenses/page": "app/expenses/page.js",
-  "/habits/page": "app/habits/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/profile/page": "app/profile/page.js",
-  "/page": "app/page.js"
-}
