@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # FinTrack — Finance Dashboard
 
-A clean, interactive finance dashboard built for the Zorvyn frontend screening assignment. FinTrack helps users track financial activity, understand spending patterns, and manage savings goals, with role-based access control and a polished dark-mode UI.
+A clean, interactive finance dashboard, FinTrack helps users track financial activity, understand spending patterns, and manage savings goals, with role-based access control and a polished dark-mode UI.
 
 ---
 
