@@ -227,12 +227,6 @@ Used only for ephemeral UI state like modal open/closed, tab selection, and form
 
 ---
 
-*Built for Zorvyn Frontend Screening Assignment — April 2026*
-=======
-# FinTrack
-
-FinTrack is a financial tracking application designed to help users manage their income and expenses effectively. With a user-friendly interface and robust features, FinTrack simplifies personal finance management.
-
 ## Features
 
 - **Income and Expense Tracking**: Record and categorize your income and expenses to monitor your financial health.
